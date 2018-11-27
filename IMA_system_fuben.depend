@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1543337829 source:d:\c\ima_system_fuben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"zidingyi.h"
+
+1543337510 source:d:\c\ima_system_fuben\yanzhengdenglu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<conio.h>
+	"zidingyi.h"
+
+1543235489 d:\c\ima_system_fuben\zidingyi.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+
+1542644911 source:d:\c\ima_system_fuben\task_save.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"zidingyi.h"
+
+1540267188 source:d:\c\ima_system_fuben\struct_info.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"zidingyi.h"
+
+1543337829 source:d:\c\ima_system_fuben\minister.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"zidingyi.h"
+
+1542644911 source:d:\c\ima_system_fuben\member.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"zidingyi.h"
+
